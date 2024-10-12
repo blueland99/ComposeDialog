@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidComposeDialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="input_title">Input Dialog</string>
+    <string name="input_hint">Please enter.</string>
 </resources>
